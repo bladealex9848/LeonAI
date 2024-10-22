@@ -9,14 +9,14 @@ import openai
 
 # Configuración de la página
 st.set_page_config(
-    page_title="León AI",
+    page_title="Guillo",
     page_icon="🦁",
     layout="wide",
     initial_sidebar_state="collapsed",
     menu_items={
         'Get Help': 'https://bosquesdeleon.edu.co',
         'Report a bug': None,
-        'About': "León AI: Tu asistente virtual para la Institución Educativa Bosques de León. Obtén información sobre la institución, los procesos académicos y más."
+        'About': "Guillo: Tu asistente virtual para la Institución Educativa Bosques de León. Obtén información sobre la institución, los procesos académicos y más."
     }
 )
 
@@ -48,7 +48,7 @@ assistant_id = ASSISTANT_ID
 # Inicialización del cliente de OpenAI
 client = openai
 
-st.title("Bienvenido a León AI 🦁")
+st.title("Bienvenido 🦁")
 
 st.write("""
         [![ver código fuente](https://img.shields.io/badge/Repositorio%20GitHub-gris?logo=github)](https://github.com/bladealex9848/LeonAI)
@@ -56,7 +56,7 @@ st.write("""
         """)
 
 st.markdown("""
-### 🦁 ¡Hola! Soy León AI, tu asistente virtual para la Institución Educativa Bosques de León
+### 🦁 ¡Hola! Soy Guillo, tu asistente virtual para la Institución Educativa Bosques de León
 
 Estoy aquí para brindarte información sobre la institución y responder tus preguntas.
 
