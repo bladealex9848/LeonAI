@@ -48,7 +48,7 @@ assistant_id = ASSISTANT_ID
 # Inicialización del cliente de OpenAI
 client = openai
 
-st.title("Bienvenido 🦁")
+st.title("Bienvenid@s 🦁")
 
 st.write("""
         [![ver código fuente](https://img.shields.io/badge/Repositorio%20GitHub-gris?logo=github)](https://github.com/bladealex9848/LeonAI)
