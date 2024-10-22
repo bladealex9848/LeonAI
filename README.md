@@ -1,9 +1,9 @@
 ![Logo de LeonAI](https://github.com/bladealex9848/LeonAI/blob/main/assets/logo.jpg)
 
-# León AI 🦁
+# Guillo 🦁
 
 ## Descripción
-León es un agente de IA que te brinda información sobre la Institución Educativa Bosques de León.
+Guillo es un agente de IA que te brinda información sobre la Institución Educativa Bosques de León.
 
 ## Funcionalidades
 * Obtén información sobre la filosofía, misión, visión y políticas de la institución.
